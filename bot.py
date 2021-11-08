@@ -3,10 +3,10 @@ import time
 
 # Authenticate to Twitter
 
-CONSUMER_KEY = '1gCJf1tHvCBOspbEk0K80G7cU'
-CONSUMER_SECRET = 'Tk65NYp79UHHGxXbcJWnWKF47OZwjBJHVcNjpJlwUw6S5WOdFY'
-ACCESS_KEY = '1281248101106249728-Qzmy95X1pBrtJEB7tE78DoOq7F29NU'
-ACESS_SECRET = '3CNS3xrYspXaCSGav8Mdj9E1YuwLiXHSsGwCKIPUG05kM'
+CONSUMER_KEY = 'xxx'
+CONSUMER_SECRET = 'xxx'
+ACCESS_KEY = 'xxx'
+ACESS_SECRET = 'xxx'
 
 # Create API object
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
